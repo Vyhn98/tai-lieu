@@ -2,6 +2,7 @@ body{
     background-image: url(./image/anh-bia.jpg);
     background-size: cover;
     background-repeat: no-repeat;
+    background-position: center;
 }
 .btn-list {
     display: flex;
